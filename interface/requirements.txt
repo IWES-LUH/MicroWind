@@ -1,0 +1,8 @@
+numpy>=1.24.2
+pandas>=2.2.3
+Pillow>=9.4.0
+pyserial>=3.5
+python-dateutil>=2.8.2
+tk>=0.1.0
+scipy>=1.14.2
+matplotlib>=3.10.0

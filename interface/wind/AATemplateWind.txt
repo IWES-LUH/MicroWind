@@ -1,0 +1,9 @@
+---Input Wind file---
+---6 Lines description followed by time[s], speed[m/s]. Starts at time 0:---
+#
+#
+#
+#
+#
+#
+0,  0
